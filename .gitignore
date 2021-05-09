@@ -1,8 +1,10 @@
 **/renders/**/*.png
 **/renders/**/*.tga
 **/renders/**/*.tif
+**/renders/**/*.tiff
 **/renders/*.png
 **/renders/*.tga
 **/renders/*.tif
+**/renders/*.tiff
 *.aep
 *.mp4
