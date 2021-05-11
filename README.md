@@ -1,5 +1,11 @@
 # Processing Sketches
-A collection of processing sketches and experiments 
+A collection of processing sketches and experiments
+
+## Running
+Some of these sketches require or allow for command line arguments so it is recommended to [run these through the command line](https://github.com/processing/processing/wiki/Command-Line). An example might be
+```bash
+$ processing-java --sketch=/home/processingSketches/sketches/2020/brightnessShapes --run /home/imageToUse.png
+```
 
 ## Sketches
 
