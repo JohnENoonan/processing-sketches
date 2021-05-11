@@ -8,3 +8,5 @@
 **/renders/*.tiff
 *.aep
 *.mp4
+*.zip
+*.tar
