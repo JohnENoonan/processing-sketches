@@ -1,5 +1,5 @@
 # Processing Sketches
-A collection of processing sketches and experiments
+A collection of processing sketches and experiments. This repo uses git lfs for images
 
 ## Running
 Some of these sketches require or allow for command line arguments so it is recommended to [run these through the command line](https://github.com/processing/processing/wiki/Command-Line). An example might be
