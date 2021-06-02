@@ -6,6 +6,7 @@
 **/renders/*.tga
 **/renders/*.tif
 **/renders/*.tiff
+input/
 *.aep
 *.mp4
 *.zip
