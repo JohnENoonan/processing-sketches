@@ -2,10 +2,14 @@
 **/renders/**/*.tga
 **/renders/**/*.tif
 **/renders/**/*.tiff
+**/renders/**/*.jpg
+**/renders/**/*.jpeg
 **/renders/*.png
 **/renders/*.tga
 **/renders/*.tif
 **/renders/*.tiff
+**/renders/*.jpg
+**/renders/*.jpeg
 input/
 *.aep
 *.mp4
