@@ -10,10 +10,14 @@ $ processing-java --sketch=/home/processingSketches/sketches/2020/brightnessShap
 ## Sketches
 
 ### starRotate
-![starRotate image](docs/sketches/starRotate.png)
+<img src="docs/sketches/starRotate.png" alt="star rotate" width="50%"/>
 
 ### particleWave
-![particleWave image](docs/sketches/particleWaves.png)
+<img src="docs/sketches/particleWaves.png" alt="particle wave" width="50%"/>
+
+### starRotate
+<img src="docs/sketches/brightnessShapes.png" alt="brightness shapes" width="50%"/>
+
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)  
