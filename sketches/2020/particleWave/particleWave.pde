@@ -181,8 +181,9 @@ class Vector extends PVector{
 	
 	// update velocity given the newly created noise value from the draw loop
 	void updateVelocity(float noise){
-		vel.x = -.8*cos(noise * TWO_PI)*maxParticleSpeed;
-		vel.y = 2*sin(noise * TWO_PI)*maxParticleSpeed;
+		noise *= .5;
+		vel.x = (noise * TWO_PI)*maxParticleSpeed;//-.8*cos(noise * TWO_PI)*maxParticleSpeed;
+		vel.y = (noise * TWO_PI)*maxParticleSpeed;//2*sin(noise * TWO_PI)*maxParticleSpeed;
 	}
 	
 	// add velocity to position
