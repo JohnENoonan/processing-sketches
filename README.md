@@ -9,13 +9,13 @@ $ processing-java --sketch=/home/processingSketches/sketches/2020/brightnessShap
 
 ## Sketches
 
-### starRotate
+### Star Rotate
 <img src="docs/sketches/starRotate.png" alt="star rotate" width="50%"/>
 
-### particleWave
+### Particle Wave
 <img src="docs/sketches/particleWaves.png" alt="particle wave" width="50%"/>
 
-### starRotate
+### Brightness Shapes
 <img src="docs/sketches/brightnessShapes.png" alt="brightness shapes" width="50%"/>
 
 
