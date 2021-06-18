@@ -12,6 +12,7 @@
 **/renders/*.jpeg
 input/
 *.aep
+*.aep*
 *.mp4
 *.zip
 *.tar
