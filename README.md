@@ -18,6 +18,8 @@ $ processing-java --sketch=/home/processingSketches/sketches/2020/brightnessShap
 ### Brightness Shapes
 <img src="docs/sketches/brightnessShapes.png" alt="brightness shapes" width="50%"/>
 
+### CV Down Sample
+<img src="docs/sketches/cvDownSample.png" alt="cv down sample" width="50%"/>
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)  
